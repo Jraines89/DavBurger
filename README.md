@@ -1,25 +1,25 @@
 # Davie's Burger
 
-##Introduction / Requirements
+## Introduction / Requirements
 During my Full Stack Developer course with Codecademy this is a project requirement project in which I followed step-by-step instructions to fix a fictional restaurant’s website with knowledge of height, width, padding, border, and margin to complete the project.
 
 
-##Technologies
+## Technologies
 This project is created with:
 
-##HTML
+## HTML
 * CSS
 * Github
 * Command Line
 * Visual Studio Code Editor
 
-##Resources
+## Resources
 With the resources available and studies from:
 * W3 School
 * MDN
 * Codecademy Tutorials
 
-##Inspiration
+## Inspiration
 Codecademy challenge project Full Stack Engineer Career Path.
 
 ##To Do
