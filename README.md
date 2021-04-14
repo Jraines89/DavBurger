@@ -22,7 +22,7 @@ With the resources available and studies from:
 ## Inspiration
 Codecademy challenge project Full Stack Engineer Career Path.
 
-##To Do
+## To Do
 I intend in the future to improve this project, by:
 *refining the design or add my own spin!
 
